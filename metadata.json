@@ -1,0 +1,6 @@
+{
+  "name": "captain-roadside",
+  "description": "A comprehensive fleet management and maintenance operations system featuring integrated workflows for drivers, field technicians, and supervisors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
